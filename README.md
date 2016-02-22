@@ -1,2 +1,2 @@
 # react_setup
-#React setup for ES5 and ES6
+React setup for ES5 and ES6
